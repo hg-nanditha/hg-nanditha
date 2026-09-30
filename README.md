@@ -1,4 +1,4 @@
-# Hi everyone, I'm [HG.NANDITHA]! 👋
+# Hi everyone, I'm HG.NANDITHA ✨👋
 
 ### 🛋️ About Me:
 I am an Engineering CSE_DS student passionate about solving problems through code and exploring new technologies.
