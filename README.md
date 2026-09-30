@@ -13,3 +13,33 @@ I am an Engineering CSE_DS student passionate about solving problems through cod
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Soft Skills:
+Quick Learner
+Teamwork
+Communcative
+Leadership
+Collaborative
+Coordination
+Adaptability
+
+### Tech Skills:
+Python
+C
+Java
+
+### Libraries & Frameworks:
+NumPy
+
+
+### Projects:
+Bank Management System
+Inventory Management System
+Smart Campus Complaint Portal
+Automated Whistle Counter in a Pressure Cooker
+Patient Record System
+
+### Currently Working On:
+DSA
+SQL
+
